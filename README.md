@@ -27,7 +27,7 @@ This boilerplate provides a solid foundation for creating MCP servers that can i
 
 ### 1. Clone and Setup
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/vltansky/mcp-boilerplate.git
 cd mcp-server-boilerplate
 yarn install
 yarn build
